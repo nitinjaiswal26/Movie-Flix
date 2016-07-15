@@ -2,6 +2,11 @@
 Thumbs.db
 ehthumbs.db
 
+#Adding .classpath, .project, and .settings directory
+.classpath
+.project
+.settings/*
+
 # Folder config file
 Desktop.ini
 
